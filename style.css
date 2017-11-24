@@ -1,0 +1,28 @@
+.job {
+    display: flex;
+}
+.job-left {
+    flex: 0 0 200px;
+    padding: 10px;
+    margin: 15px;
+    color: white;
+    background-color: #A52A2A;
+}
+.job-text {
+    flex: 0 0 200px;
+    padding: 10px;
+    margin: 15px;
+    color: white;
+    background-color: #D2691E;
+    flex-grow: 1;
+}
+.btn-appy {
+    color: white;
+    background: #A52A2A;
+    padding: 10px;
+	
+    border-radius: 5px;
+    border: solid 1px darkred;
+    align-self: flex-end;
+}
+
